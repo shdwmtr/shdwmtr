@@ -13,7 +13,7 @@
 [docs-badge]: https://img.shields.io/badge/docs-green?labelColor=0c0d10&color=3a71c1&style=for-the-badge&logo=readthedocs&logoColor=3a71c1
 [docs-link]: https://millennium.gitbook.io/steam-patcher/
 
-### ✨ Developer of Project-Millennium
+### ✨ Developer of [Project-Millennium](https://github.com/ShadowMonster99/millennium-steam-patcher)
 
 [![GitHub Releases][downloads-badge]][downloads-link] [![Discord][discord-badge]][discord-link] [![Website][website-badge]][website-link] [![Docs][docs-badge]][docs-link]
 
