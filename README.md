@@ -17,15 +17,6 @@
 
 [![GitHub Releases][downloads-badge]][downloads-link] [![Discord][discord-badge]][discord-link] [![Website][website-badge]][website-link] [![Docs][docs-badge]][docs-link]
 
-<div style="display: flex; gap: 10px;">
-  <a>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadowMonster99&card_width=340&include_all_commits=true&number_format=long&show_icons=true&bg_color=161B22&title_color=fff&icon_color=fff&border_color=30363D&border_radius=6" />
-  </a>
-  <a>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShadowMonster99&card_width=340&bg_color=161B22&title_color=fff&border_color=30363D&border_radius=10" />
-  </a>
-</div>
-
 <!--
 **ShadowMonster99/ShadowMonster99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
