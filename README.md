@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=shdwmtr&show_icons=true&theme=dark" alt="img" align="right" width="450px" height="220px">  
+<img src="https://github-readme-stats.vercel.app/api?username=shdwmtr&show_icons=true&theme=github_dark&border_color=3d444d" alt="img" align="right" width="450px" height="220px">  
 
 ### Hello there 👋
 
