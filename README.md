@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-University student by day ☼ and a Full-Stack Developer by night ☾
+University student by day ☀️ and a Full-Stack Developer by night 🌙
 
 #### About Me:
 - Full stack developer and founder of [Millennium](https://github.com/shdwmtr/millennium).
