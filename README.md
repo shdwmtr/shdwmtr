@@ -8,14 +8,3 @@ I'm a massive FOSS enthusiast. Most of my current open-source work is on Millenn
 <a href="https://ko-fi.com/shadowmonster">
 <img height="35" alt="image" src="https://github.com/user-attachments/assets/03ff11bb-2209-4fe1-b0f3-712274ce0996" />
 </a>
-
-## Projects
-
-### [Millennium](https://github.com/SteamClientHomebrew/Millennium) 
-
-Founder and principle lead of SteamClientHomebrew. Millennium is an open-source low-code modding framework to create, manage and use themes/plugins
-for the desktop Steam Client without any low-level internal interaction or overhead.
-
-### [libsnare.h](https://github.com/shdwmtr/libsnare.h) 
-
-A c/cxx/asm compatible single-header hooking library for x86/x64/arm64. inline hooks and PLT/IAT hooks. linux/windows/macos.
