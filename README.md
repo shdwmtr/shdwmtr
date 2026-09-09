@@ -1,5 +1,5 @@
 ## Hello there! 👋 
 
-I'm Ethan; a full time student majoring in Computer Science. I specialize in building, maintaining, and optimizing high-throughput infrastructure where poor decisions carry real-time consequences.
+I'm Ethan, a full time student majoring in Computer Science. I specialize in building, maintaining, and optimizing high-throughput infrastructure where poor decisions carry real-time consequences.
 
 I also love FOSS. Most of my current open-source work is on [Millennium](https://github.com/SteamClientHomebrew/Millennium), which I solely design and develop. Millennium has a constantly growing user-base of over 5M+ people.
